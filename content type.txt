@@ -1,0 +1,21 @@
+text/html - HTML documents
+text/plain - Plain text documents
+application/json - JSON data
+application/xml - XML data
+application/pdf - PDF documents
+image/jpeg - JPEG images
+image/png - PNG images
+audio/mpeg - MPEG audio files
+video/mp4 - MPEG-4 video files
+application/octet-stream - Any binary data that does not fit into any of the other categories
+In addition to the above, here are a few more Content-Type headers that are used less commonly:
+
+application/javascript - JavaScript code
+application/xhtml+xml - XHTML documents
+application/zip - ZIP archives
+text/csv - CSV files
+text/xml - Legacy XML documents
+
+
+
+image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
